@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import persistencia.MaquinaTuring;
 
+
 public class maquinaTuringMain {
   public static void main(String[] args) {
     MaquinaTuring maquinaTuring = new MaquinaTuring();

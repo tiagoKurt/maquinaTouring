@@ -3,6 +3,7 @@ package persistencia;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class MaquinaTuring {
   private char[] fita; // Fita
   private int cabecote; // Posição do cabeçote
